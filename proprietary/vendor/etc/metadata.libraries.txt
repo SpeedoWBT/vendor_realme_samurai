@@ -1,0 +1,6 @@
+libOpenCL.so
+libqdMetaData.so
+libgpuservice.so
+libhardware.so
+libqcril.so
+libclcore.so
